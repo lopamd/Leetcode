@@ -2,7 +2,7 @@ Here are the list of leetcode questions I have solved till now. I keep updating 
 
 LT#     Question
 -------------------------------------------------------
-1.       Two Sum
+1.    Two Sum
 
 2.		Add Two Numbers
 
