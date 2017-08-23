@@ -2,19 +2,19 @@ Here are the list of leetcode questions I have solved till now. I keep updating 
 
 LT#     Question
 -------------------------------------------------------
-1       Two Sum
+1.       Two Sum
 
-2	      Add Two Numbers
+2.		Add Two Numbers
 
-3	      Longest Substring Without Repeating Characters
+3.		Longest Substring Without Repeating Characters
 
-5	      Longest Palindromic Substring
+5.		Longest Palindromic Substring
 
-7	      Reverse Integer
+7.		Reverse Integer
 
-8	      String to Integer (atoi)
+8.		String to Integer (atoi)
 
-9	      Palindrome Number
+9.		Palindrome Number
 
 14	    Longest Common Prefix
 
